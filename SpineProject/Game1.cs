@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace SpineProject;
 
-/**
+/*
  * The main class, which inherits from the MonoGame "Game" class and contains the game's core methods.
  * This project was initially based on the MonoGame "Getting Started" tutorial, which can be found at:
  * https://docs.monogame.net/articles/getting_started/
