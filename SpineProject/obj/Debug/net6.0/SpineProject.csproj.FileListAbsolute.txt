@@ -24,4 +24,3 @@ C:\Users\Kat\Dropbox\work\IT\CS\SpineProject\SpineProject\obj\Debug\net6.0\refin
 C:\Users\Kat\Dropbox\work\IT\CS\SpineProject\SpineProject\obj\Debug\net6.0\SpineProject.pdb
 C:\Users\Kat\Dropbox\work\IT\CS\SpineProject\SpineProject\obj\Debug\net6.0\SpineProject.genruntimeconfig.cache
 C:\Users\Kat\Dropbox\work\IT\CS\SpineProject\SpineProject\obj\Debug\net6.0\ref\SpineProject.dll
-C:\Users\Kat\Dropbox\work\IT\CS\SpineProject\SpineProject\obj\Debug\net6.0\SpineProject.sourcelink.json

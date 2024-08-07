@@ -10,7 +10,6 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\spine-runtimes-4.2\spine-monogame\spine-monogame\spine-monogame.csproj
 
 #---------------------------------- Content ---------------------------------#
 
@@ -25,26 +24,4 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:f001.png
-
-#begin resources/spine/char/skeleton.atlas
-/importer:
-/processor:
-/build:resources/spine/char/skeleton.atlas
-
-#begin resources/spine/char/skeleton.json
-/importer:
-/processor:
-/build:resources/spine/char/skeleton.json
-
-#begin resources/spine/char/skeleton.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:resources/spine/char/skeleton.png
 
