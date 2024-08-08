@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/Content/f001.png","C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/Content/bin/DesktopGL/Content/f001.xnb","TextureProcessor","Texture2DContent",288,1109,0.1481744
+"C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/SpineProject/Content/f001.png","C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/SpineProject/Content/bin/DesktopGL/Content/f001.xnb","TextureProcessor","Texture2DContent",288,1109,0.1649377
+"C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/SpineProject/Content/sprites/player/char/skeleton.png","C:/Users/Kat/Dropbox/work/IT/CS/SpineProject/SpineProject/Content/bin/DesktopGL/Content/sprites/player/char/skeleton.xnb","TextureProcessor","Texture2DContent",872,16917,0.1323686
